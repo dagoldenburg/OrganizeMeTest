@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OrganizeMeTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OrganizeMeTest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="OrganizeMeTest:war exploded" />
+    </root>
+  </artifact>
+</component>
